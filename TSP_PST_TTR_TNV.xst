@@ -1,0 +1,5 @@
+set -tmpdir "D:/TT_FPGA/TSP_PST_TTR_TNV/xst/projnav.tmp"
+set -xsthdpdir "D:/TT_FPGA/TSP_PST_TTR_TNV/xst"
+elaborate
+-ifn TSP_PST_TTR_TNV.prj
+-ifmt mixed

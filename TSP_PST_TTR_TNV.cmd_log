@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/TT_FPGA/TSP_PST_TTR_TNV/TSP_PST_TTR_TNV.xst" -ofn "D:/TT_FPGA/TSP_PST_TTR_TNV/TSP_PST_TTR_TNV.syr" 
